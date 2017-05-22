@@ -1,8 +1,10 @@
 {
-    "name": "Image 1",
-    "image": { "url": "/assets/images/gallery1.jpg" },
-    "description": "Gallery Image 1",
-    "order": 1
+  "name": "Dining Room",
+  "image": {
+    "url": "https://d31f902anbz5po.cloudfront.net/6/18250_1_master.jpg",
+    "description": "",
+    "caption": "Dining Room",
+    "alt": ""
+  },
+  "order": 1
 }
-
-

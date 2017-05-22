@@ -1,11 +1,47 @@
 {
-    "name": "Monument",
-    "description": "This great sculpture was built in 1224 to dedicate the great event.",
-    "category": "",
-    "address1": "123 Main St",
-    "city": "Boston",
-    "state": "MA",
-    "country": "US",
-    "zip": "021120",
-    "order": 1
+  "name": "Chrysler Building",
+  "description": "The Chrysler Building is an Art Deco style skyscraper in New York City, located on the east side of Manhattan in the Turtle Bay area at the intersection of 42nd Street and Lexington Avenue. The Chrysler Building is an Art Deco style skyscraper in New York City.",
+  "category": "Building",
+  "photos": [
+    {
+      "caption": "",
+      "description": "",
+      "urls": {
+        "thumb_yankee_medium": "https://d31f902anbz5po.cloudfront.net/6/22306_1_thumb_yankee_medium.jpg",
+        "thumb_yankee_jumbo": "https://d31f902anbz5po.cloudfront.net/6/22306_1_thumb_yankee_jumbo.jpg",
+        "thumb_jumbo": "https://d31f902anbz5po.cloudfront.net/6/22306_1_thumb_jumbo.jpg",
+        "thumb_medium": "https://d31f902anbz5po.cloudfront.net/6/22306_1_thumb_medium.jpg",
+        "yankee_large": "https://d31f902anbz5po.cloudfront.net/6/22306_1_yankee_large.jpg",
+        "thumb_yankee_large": "https://d31f902anbz5po.cloudfront.net/6/22306_1_thumb_yankee_large.jpg",
+        "facebook": "https://d31f902anbz5po.cloudfront.net/6/22306_1_facebook.jpg",
+        "thumb_large": "https://d31f902anbz5po.cloudfront.net/6/22306_1_thumb_large.jpg",
+        "thumb_yankee_small": "https://d31f902anbz5po.cloudfront.net/6/22306_1_thumb_yankee_small.jpg",
+        "thumb_tiny": "https://d31f902anbz5po.cloudfront.net/6/22306_1_thumb_tiny.jpg",
+        "large": "https://d31f902anbz5po.cloudfront.net/6/22306_1_master.jpg",
+        "thumb_small": "https://d31f902anbz5po.cloudfront.net/6/22306_1_thumb_small.jpg"
+      },
+      "alt_text": ""
+    }
+  ],
+  "city": "New York",
+  "address": "405 Lexington Avenue",
+  "latitude": "40.7517",
+  "longitude": "-73.9753",
+  "lead_photo": {
+    "thumb_yankee_medium": "https://d31f902anbz5po.cloudfront.net/6/22306_1_thumb_yankee_medium.jpg",
+    "thumb_yankee_jumbo": "https://d31f902anbz5po.cloudfront.net/6/22306_1_thumb_yankee_jumbo.jpg",
+    "thumb_jumbo": "https://d31f902anbz5po.cloudfront.net/6/22306_1_thumb_jumbo.jpg",
+    "thumb_medium": "https://d31f902anbz5po.cloudfront.net/6/22306_1_thumb_medium.jpg",
+    "yankee_large": "https://d31f902anbz5po.cloudfront.net/6/22306_1_yankee_large.jpg",
+    "thumb_yankee_large": "https://d31f902anbz5po.cloudfront.net/6/22306_1_thumb_yankee_large.jpg",
+    "facebook": "https://d31f902anbz5po.cloudfront.net/6/22306_1_facebook.jpg",
+    "thumb_large": "https://d31f902anbz5po.cloudfront.net/6/22306_1_thumb_large.jpg",
+    "thumb_yankee_small": "https://d31f902anbz5po.cloudfront.net/6/22306_1_thumb_yankee_small.jpg",
+    "thumb_tiny": "https://d31f902anbz5po.cloudfront.net/6/22306_1_thumb_tiny.jpg",
+    "large": "https://d31f902anbz5po.cloudfront.net/6/22306_1_master.jpg",
+    "thumb_small": "https://d31f902anbz5po.cloudfront.net/6/22306_1_thumb_small.jpg"
+  },
+  "zip_code": "10174",
+  "address1": null,
+  "order": 1
 }

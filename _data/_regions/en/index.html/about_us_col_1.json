@@ -1,1 +1,6 @@
-[{"_template":"html","content":"<p>Edit this text block to give a general overview of the hotel property highlighting location, building characteristics, nearby landmarks, and popular destinations.</p>"}]
+[
+  {
+    "_template": "html",
+    "content": "<p>This is a demo hotel. It is not a real hotel. If you show up at our office doorstep with bags in hand, we'll offer you a drink and chat with you but may not be able to put you up overnight. A new survey of 25 GOP-held districts shows dwindling favorability</p>"
+  }
+]
